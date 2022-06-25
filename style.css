@@ -25,7 +25,7 @@ body{
 }
 .card-body p{
     text-align: center;
-    font-size:15px;
+    font-size:13px;
     color: rgb(119, 113, 113);
 }
 .card-body h4{
@@ -75,7 +75,7 @@ body{
     background-color: hsl(245, 75%, 52%) !important;
     width: 100%;
     border: none!important;
-    margin-bottom: 18px;
+    margin-bottom: 20px;
     border-radius:.5rem!important;
 }
 .btn-2:hover{
@@ -85,7 +85,7 @@ body{
     color: rgb(119, 113, 113);
     font-weight: 700;
     font-size: 15px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 .card-body .Cancel:hover{
     color:#000;
