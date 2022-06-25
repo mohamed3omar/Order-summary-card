@@ -84,7 +84,7 @@ body{
 .card-body .Cancel{
     color: rgb(119, 113, 113);
     font-weight: 700;
-    font-size: 13px;
+    font-size: 15px;
     margin-bottom: 15px;
 }
 .card-body .Cancel:hover{
